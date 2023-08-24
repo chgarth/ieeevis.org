@@ -960,9 +960,6 @@ Authors: Braden Roper, James C. Mathews, Saad Nadeem, Ji Hwan Park
 **Enabling Multimodal User Interactions for Genomics Visualization Creation**<br/>
 Authors: Qianwen Wang, Xiao Liu, Man Qing Liang, Sehi L'Yi, Nils Gehlenborg
 
-**Gridded Glyphmaps for Supporting Spatial COVID-19 Modelling**<br/>
-Authors: Aidan Slingsby, Richard Reeve, Claire Harris
-
 **Simulating the Geometric Growth of the Marine Sponge Crella Incrustans**<br/>
 Authors: Josh O'Hagan, Andrew Chalmers, Taehyun James Rhee
 
